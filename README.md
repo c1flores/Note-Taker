@@ -31,7 +31,7 @@ With the application's front end created, I simply provided logic to modularize 
   - Ensure Inquirer package (version 8.2.4) is installed
   - Ensure UUID package is installed
   - Ensure Express package is installed
-  - 
+  
 ## Usage
 
   - Open integrated terminal in personal IDE
