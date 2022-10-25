@@ -18,7 +18,7 @@ With the right note-taking app, you can make notes about anything and sync them 
 
 
 ## Screen Capture
-![]()
+![](https://user-images.githubusercontent.com/81927296/197658632-4dc0afa0-ff74-4d75-95dd-6c32d4ad2a8b.gif)
 
 ## Installation
 
