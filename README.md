@@ -15,7 +15,7 @@ This repository is an exhibition of a note taker application that can be used to
 With the right note-taking app, you can make notes about anything and sync them all to your devices. The real value comes in being able to organize, share, and find the notes you need when you need them.
 
 ## How did I refactor the codebase for this particular assignment?
-
+With the application's front end created, I simply provided logic to modularize api routing as well as to handle client-side data. 
 
 ## Heroku Application Deployment
 [Link to Application](https://notes-takerr.herokuapp.com/)
