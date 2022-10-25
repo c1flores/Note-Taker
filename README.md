@@ -17,6 +17,9 @@ With the right note-taking app, you can make notes about anything and sync them 
 ## How did I refactor the codebase for this particular assignment?
 
 
+## Heroku Application Deployment
+[Link to Application](https://notes-takerr.herokuapp.com/)
+
 ## Screen Capture
 ![](https://user-images.githubusercontent.com/81927296/197658632-4dc0afa0-ff74-4d75-95dd-6c32d4ad2a8b.gif)
 
@@ -28,6 +31,7 @@ With the right note-taking app, you can make notes about anything and sync them 
   - Ensure Inquirer package (version 8.2.4) is installed
   - Ensure UUID package is installed
   - Ensure Express package is installed
+  - 
 ## Usage
 
   - Open integrated terminal in personal IDE
