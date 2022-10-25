@@ -40,7 +40,6 @@ class Save {
         const newNote = { title, text, id: uuidv4() };
 
         // Retrieve, add, and update notes
-
         return this.retrieveNotes()
             .then(notes => [...notes, newNote])
             .then(updatedNotes => this.write(updatedNotes))

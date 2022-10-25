@@ -36,3 +36,4 @@ With the right note-taking app, you can make notes about anything and sync them 
   - Open integrated terminal in personal IDE
   - Type "Node server.js"
   - Open app in local host port
+  - Add notes to see persistent data
