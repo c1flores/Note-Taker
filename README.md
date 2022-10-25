@@ -20,9 +20,6 @@ With the right note-taking app, you can make notes about anything and sync them 
 ## Screen Capture
 ![]()
 
-## Link to Screen Recording of Application
-[Google Drive Link]()
-
 ## Installation
 
   - Fork repository
