@@ -1,10 +1,10 @@
 # Table of Contents
 
   - [Overview](#overview)
-  - [Why do professional README markdown files matter?](#why-do-professional-readme-markdown-files-matter)
+  - [Why do note-taker applications matter?](#why-do-note-taker-applications-matter)
   - [How did I refactor the codebase for this particular assignment?](#how-did-i-refactor-the-codebase-for-this-particular-assignment)
+  - [Heroku Application Deployment](#heroku-application-deployment)
   - [Screen Capture](#screen-capture)
-  - [Link to Screen Recording of Application](#link-to-screen-recording-of-application)
   - [Installation](#installation)
   - [Usage](#usage)
   
