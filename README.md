@@ -21,7 +21,7 @@ With the application's front end created, I simply provided logic to modularize 
 [Link to Application](https://notes-takerr.herokuapp.com/)
 
 ## Screen Capture
-![](https://user-images.githubusercontent.com/81927296/197658632-4dc0afa0-ff74-4d75-95dd-6c32d4ad2a8b.gif)
+![](https://user-images.githubusercontent.com/81927296/197882189-09931dba-51e1-4bee-af7c-9931d9e3d8a0.gif)
 
 ## Installation
 
