@@ -13,8 +13,8 @@ router.get('/notes', function (req, res) {
 // POST Request
 router.post('/notes', function (req, res) {
     saveData
-        .addNote()
-        .then(notes => res.json(notes))
+        .addNote(req.body)
+        .then((note) => res.json(note))
         .catch(err => res.status(500).json(err));
 });
 
