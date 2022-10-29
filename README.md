@@ -9,7 +9,7 @@
   - [Usage](#usage)
   
 ## Overview
-This repository is an exhibition of a note taker application that can be used to write and save notes. The user can consult the repo to learn how to create a node-based tool that uses the <a href="https://www.npmjs.com/package/express" target="_blank">Express Package</a> to create an Express.js back end capable of retrieving note data from a JSON file. 
+This repository is an exhibition of a note taker application that can be used to write and save notes. The user can consult the repo to learn how to create a Node-based tool that uses the <a href="https://www.npmjs.com/package/express" target="_blank">Express Package</a> to create an Express.js back end capable of retrieving note data from a JSON file. 
 
 ## Why do note-taker applications matter?
 With the right note-taking app, you can make notes about anything and sync them all to your devices. The real value comes in being able to organize, share, and find the notes you need when you need them.
