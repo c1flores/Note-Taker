@@ -21,16 +21,12 @@ With the right note-taking app, you can make notes about anything and sync them 
 
 ## Installation
 
-  - Fork repository
-  - Setup node project
-  - Install dependencies
-  - Ensure Inquirer package (version 8.2.4) is installed
-  - Ensure UUID package is installed
-  - Ensure Express package is installed
+  1. Fork and clone repository to local machine.
+  2. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
 
-  - Open integrated terminal in personal IDE
-  - Type "Node server.js"
-  - Open app in local host port
-  - Add notes to see persistent data
+  1. Open integrated terminal in personal IDE.
+  2. Run ```node server.js```.
+  3. Open app in local host port.
+  4. Add notes to see persistent data.
