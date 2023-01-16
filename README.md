@@ -2,8 +2,9 @@
 
   - [Overview](#overview)
   - [Why do note-taker applications matter?](#why-do-note-taker-applications-matter)
-  - [Heroku Application Deployment](#heroku-application-deployment)
+  - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
+  - [Heroku Application Deployment](#heroku-application-deployment)
   - [Installation](#installation)
   - [Usage](#usage)
   
@@ -12,9 +13,6 @@ This repository is an exhibition of a note taker application that can be used to
 
 ## Why do note-taker applications matter?
 With the right note-taking app, you can make notes about anything and sync them all to your devices. The real value comes in being able to organize, share, and find the notes you need when you need them.
-
-## Heroku Application Deployment
-[Link to Application](https://notes-takerr.herokuapp.com/)
 
 ## Technologies Used
 
@@ -35,6 +33,12 @@ With the right note-taking app, you can make notes about anything and sync them 
 
 ## Screen Capture
 ![](https://user-images.githubusercontent.com/81927296/197882189-09931dba-51e1-4bee-af7c-9931d9e3d8a0.gif)
+
+
+## Heroku Application Deployment
+[Link to Application](https://notes-takerr.herokuapp.com/)
+
+
 
 ## Installation
 
