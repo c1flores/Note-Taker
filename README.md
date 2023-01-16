@@ -1,17 +1,17 @@
 # Table of Contents
 
   - [Overview](#overview)
-  - [Why do note-taker applications matter?](#why-do-note-taker-applications-matter)
+  - [Why are Note-Taker Applications Important?](#why-are-note-taker-applications-important)
   - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
-  - [Heroku Application Deployment](#heroku-application-deployment)
+  - [HLive Application](#live-application)
   - [Installation](#installation)
   - [Usage](#usage)
   
 ## Overview
 This repository is an exhibition of a note taker application that can be used to write and save notes. The user can consult the repo to learn how to create a Node-based tool that uses the <a href="https://www.npmjs.com/package/express" target="_blank">Express Package</a> to create an Express.js back end capable of retrieving note data from a JSON file. 
 
-## Why do note-taker applications matter?
+## Why are Note-Taker Applications Important?
 With the right note-taking app, you can make notes about anything and sync them all to your devices. The real value comes in being able to organize, share, and find the notes you need when you need them.
 
 ## Technologies Used
@@ -35,8 +35,8 @@ With the right note-taking app, you can make notes about anything and sync them 
 ![](https://user-images.githubusercontent.com/81927296/197882189-09931dba-51e1-4bee-af7c-9931d9e3d8a0.gif)
 
 
-## Heroku Application Deployment
-[Link to Application](https://notes-takerr.herokuapp.com/)
+## Live Application
+[Link](https://notes-takerr.herokuapp.com/)
 
 
 
