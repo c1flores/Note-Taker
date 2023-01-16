@@ -4,7 +4,7 @@
   - [Why are Note-Taker Applications Important?](#why-are-note-taker-applications-important)
   - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
-  - [HLive Application](#live-application)
+  - [Live Application](#live-application)
   - [Installation](#installation)
   - [Usage](#usage)
   
