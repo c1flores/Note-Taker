@@ -31,6 +31,8 @@ With the right note-taking app, you can make notes about anything and sync them 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+</br>
+
 ## Screen Capture
 ![](https://user-images.githubusercontent.com/81927296/197882189-09931dba-51e1-4bee-af7c-9931d9e3d8a0.gif)
 
