@@ -1,5 +1,8 @@
-# Table of Contents
+<!-- omit in toc -->
+# Note-Taker
 
+<!-- omit in toc -->
+## Table of Contents
   - [Overview](#overview)
   - [Why are Note-Taker Applications Important?](#why-are-note-taker-applications-important)
   - [Technologies Used](#technologies-used)
@@ -15,7 +18,6 @@ This repository is an exhibition of a note taker application that can be used to
 With the right note-taking app, you can make notes about anything and sync them all to your devices. The real value comes in being able to organize, share, and find the notes you need when you need them.
 
 ## Technologies Used
-
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,14 +41,11 @@ With the right note-taking app, you can make notes about anything and sync them 
 [Link](https://notes-takerr.herokuapp.com/)
 
 
-
 ## Installation
-
   1. Fork and clone repository to local machine.
   2. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
-
   1. Open integrated terminal in personal IDE.
   2. Run ```node server.js```.
   3. Open app in local host port.
